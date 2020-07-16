@@ -2,5 +2,6 @@
 
 print("Hello World!")
 
-if True:
-    print("if")
+name = input("请输入用户名：\n")
+
+print("用户名：",name)
